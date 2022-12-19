@@ -1,9 +1,13 @@
-:root{
- --clr-primary: #fff;
- --clr-secondary: #CFAD89;
+:root {
+  --clr-primary: #fff;
+  --clr-secondary: #cfad89;
 
- --clr-bg: #CFC1AF;
- --clr-turq: #78B2C4;
- --clr-dark: #1088A0;
- --clr-grey: #818792;
+  --clr-bg: #cfc1af;
+  --clr-turq: #78b2c4;
+  --clr-dark: #1088a0;
+  --clr-grey: #818792;
+  --clr-sun: #ffdd00;
+  --clr-org: #ffb400;
+  --clr-blue: #1939d0;
+  --clr-purple: #5214d0;
 }
